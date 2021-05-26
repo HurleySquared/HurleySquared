@@ -1,16 +1,19 @@
-### Hi there 👋
+# Well, Hello There 🤙
 
-<!--
-**HurleySquared/HurleySquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
+My name is Eric Hurley. I recently graduated UNCC Full-Stack Web Developer bootcamp. We covered MERN/SERN Stack. I find myself to be more Front End focused right now but still working on getting better with Back End Development!
 
-Here are some ideas to get you started:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-hurley-profile/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Brewery Finder application in React
+- 🌱 I’m currently furthering my knowledge in JavaScript and React.js
+- 👯 I’m looking to collaborate on some Open Source Projects
+- 💬 Ask me about anything!
+- 📫 How to reach me: erichurley421@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am currently a blue belt in Brazilian Jiu-Jitsu
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HurleySquared&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
