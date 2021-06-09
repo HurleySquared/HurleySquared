@@ -1,7 +1,7 @@
 # Well, Hello There 🤙
 
 ## Intro
-My name is Eric Hurley. I recently graduated UNCC Full-Stack Web Developer bootcamp. We covered MERN/SERN Stack. I find myself to be more Front End focused right now but still working on getting better with Back End Development!
+My name is Eric Hurley. I recently graduated UNCC Full-Stack Web Developer bootcamp covering the MERN/SERN Stack. I find myself to be more Front End focused right now but still working on getting better with Back End Development!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-hurley-profile/)
 
@@ -10,7 +10,6 @@ My name is Eric Hurley. I recently graduated UNCC Full-Stack Web Developer bootc
 - 👯 I’m looking to collaborate on some Open Source Projects
 - 💬 Ask me about anything!
 - 📫 How to reach me: erichurley421@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently a blue belt in Brazilian Jiu-Jitsu
 
 
